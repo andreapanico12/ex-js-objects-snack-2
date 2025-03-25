@@ -46,7 +46,7 @@ RISPOSTA: Verrà stampato in entrambi i casi Salad perchè secondBurger è una c
 
 -Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
 
-RISPOSTA: Gli oggetti creati in memoria di fatto sono 2, uno per hamburger e uno per secondBurger più un singolo array condiviso da entrambi.
+RISPOSTA: Gli oggetti creati in memoria di fatto sono 2, uno per hamburger e uno per secondBurger più un singolo array a cui fanno riferimento entrambi gli oggetti
 
 */
 
